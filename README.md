@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Learn QGIS - Fourth Edition
 
 <a href="https://www.packtpub.com/application-development/learn-qgis-fourth-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788997423 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788997423_cover.png" alt="Learn QGIS - Fourth Edition" height="256px" align="right"></a>
@@ -34,7 +39,7 @@ for feature in my_features:
 ```
 
 **Following is what you need for this book:**
-If you are a developer or consultant familiar with the basic functions and processes of GIS and want to learn how to use QGIS to analyze geospatial data and create rich mapping applications, this book is for you. You’ll also find this book useful if you’re new to QGIS and wish to grasp its fundamentals
+If you are a developer or consultant familiar with the basic functions and processes of GIS and want to learn how to use QGIS to analyze geospatial data and create rich mapping applications, this book is for you. Youâ€™ll also find this book useful if youâ€™re new to QGIS and wish to grasp its fundamentals
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-6).
 ### Software and Hardware List
